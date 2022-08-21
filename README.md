@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and web design. ML
 - 🌱 I’m currently learning Data structures and algo
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.instagram.com/lilrupee_
+- 📫 How to reach me www.instagram.com/lilrupee_/
 
 <!---
 JustStartedToCode/JustStartedToCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustStartedToCode
-- 👀 I’m interested in python and web design. ML
+- 👀 I’m interested in Java and web design. ML
 - 🌱 I’m currently learning Data structures and algo
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some ui/ux design, java project.
 - 📫 How to reach me www.instagram.com/lilrupee_/
 
 <!---
